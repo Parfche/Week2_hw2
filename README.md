@@ -58,3 +58,5 @@ Analyzing product availability (in stock vs out of stock).
 Overview of product pricing.
 
 Detecting any anomalies or patterns in the dataset.
+
+Name:Rawan Alsaffar
